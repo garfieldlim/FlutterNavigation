@@ -131,7 +131,7 @@ class SecondRoute extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Home Page'),
+          title: Text('A'),
         ),
         body: Container(
             width: 400,
@@ -191,7 +191,7 @@ class ThirdRoute extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Home Page'),
+          title: Text('B'),
         ),
         body: Container(
             width: 400,
@@ -256,7 +256,7 @@ class FourthRoute extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Home Page'),
+          title: Text('C'),
         ),
         body: Container(
             width: 400,
